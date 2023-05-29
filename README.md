@@ -1,2 +1,2 @@
-# Linguagens-Programaco-II
+# Linguagens-Programacao-II
 Linguagens e Técnicas de Programação II - Prof. Túlio Dias - Terceiro período (2023.1)
